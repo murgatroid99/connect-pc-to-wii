@@ -1,0 +1,7 @@
+ignore compiler warnings this was just hacked together to make your HID attributes match those of a wiimote
+only run once after compiling
+if you run it multiple times it will make more and more hid services
+resart your computer for changes to revert
+
+Max Thrun
+bear24rw@gmail.com
